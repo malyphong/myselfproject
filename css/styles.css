@@ -35,6 +35,8 @@ div.sidebar {
   margin: 30px;
 }
 
-.singledout {
+span {
   color: red;
+  font-style: oblique;
+  font-weight: bold;
 }
