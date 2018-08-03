@@ -4,6 +4,20 @@ body {
   font-family: monospace;
 }
 
+img.main {
+  align: center;
+  width: 100%;
+}
+
+h1 {
+  font-family: cursive;
+  text-align: center;
+}
+
+h3 {
+  font-family: cursive;
+}
+
 img {
   width: 35%;
   height: 35%;
@@ -15,4 +29,9 @@ div.sidebar {
   width: 200px;
   margin-top: 30px;
   text-align: justify;
+}
+span {
+  color: red;
+  font-style: oblique;
+  font-weight: bold;
 }
