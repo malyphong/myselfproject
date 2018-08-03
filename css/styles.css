@@ -1,5 +1,5 @@
 body {
-  background-color: #004080;
+  background-color: #660000;
   margin: 30px;
   font-family: monospace;
 }
@@ -20,7 +20,7 @@ h3 {
 
 div.sidebar {
   float: left;
-  background-color: #e6f2ff;
+  background-color: #ffcccc;
   width: 200px;
   margin-top: 30px;
   text-align: justify;
@@ -28,7 +28,7 @@ div.sidebar {
 
 .aboutmaly {
   text-align: justify;
-  background-color: #e6f2ff;
+  background-color: #ffcccc;
   float: left;
   width: 25%;
   height: 260px;
