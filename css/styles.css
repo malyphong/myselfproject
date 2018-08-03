@@ -1,0 +1,25 @@
+body {
+  background-color: #004080;
+}
+
+img.main {
+  align: center;
+  width: 40%
+}
+
+h1 {
+  font-family: cursive;
+  text-align: center;
+}
+
+div.sidebar {
+  float: left;
+  background-color: #e6f2ff;
+  width: 200px;
+  text-align: justify;
+}
+
+.aboutmaly {
+  background-color: #e6f2ff;
+  
+}
