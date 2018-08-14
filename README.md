@@ -3,6 +3,7 @@
 #### _An html and css style sheet created to inform you about who MalyPhong is, August 3, 2018_
 
 #### By _**Maly Phongsavanh**_
+[Link to a profile about Maly Phong](https://malyphong.github.io/myselfproject)
 
 ## Description
 
